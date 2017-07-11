@@ -1,0 +1,7 @@
+X tableau de données
+Xc tableau centré en colonne
+Calcul de V = (Xc^T*Xc)/n (cov.wt())
+Diagonalisation de V : eigen()
+Calcul des composantes principales
+C_alpha = X*u_alpha  (u_alpha = alpha-ieme vecteur propre)
+C= X*U
